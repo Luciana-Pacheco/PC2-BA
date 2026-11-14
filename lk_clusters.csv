@@ -1,0 +1,4 @@
+cluster,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,n,dias_medios,%_sobrevive,%_traccion_local,descripcion
+0,0.322,0.19,-33.335,0.15,0.456,0.526,0.198,0.178,107.061,13,94.9,84.6,0.0,más instrumental y más tenue
+1,0.615,0.583,-6.885,0.133,0.436,0.011,0.17,0.453,127.816,132,47.8,35.6,15.2,más rápido y más vocal
+2,0.751,0.73,-5.214,0.081,0.171,0.018,0.167,0.684,112.537,296,72.7,47.0,31.1,más producido y más melódico

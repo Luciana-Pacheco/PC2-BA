@@ -1,0 +1,6 @@
+modelo,detalle,metrica_1,metrica_2
+Regresión logística,A · solo rank de debut,0.539,0.485
+Regresión logística,B · + género (enriquecimiento),0.659,0.554
+Regresión logística,C · + audio features,0.659,0.604
+Serie de tiempo,holdout 30 días,inf,0.0341
+Clustering,k = 3,0.211,441.0
